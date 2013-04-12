@@ -1,6 +1,7 @@
 For years, I've had this idea stick with me: a computer program, one of whose functions is a "Flow/Follow" command. 
 
-I'm not sure exactly what it means... It's something like a 'state management' system for a given environment you're working in. Presumably, within this environment, there are actors which have a certain degree of autonomy and characteristic behaviors they will take if left to their own devices. 
+I'm not sure exactly what it means... It's something like a 'state management' system for a given environment you're working in. Presumably, within this environment, there are actors which have a certain degree of autonomy and 
+characteristic behaviors they will take if left to their own devices. 
 
 Like, say you have 'frozen' or a 'hold' on the field: choosing "Flow" would re-activate the timeline, and encourage the actors in the environment to sort of "surge" based on their available resources and normal behaviors, etc [See also: PHASE-CHANGE in desert locust?]. Maybe they would grow, or eat or who knows what.
 
